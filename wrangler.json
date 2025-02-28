@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "floral-snow-ae77",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "735cb959-87be-4a25-ab5a-e89b49adbc1d",
+      "database_name": "floral-snow-ae77-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
